@@ -35,8 +35,8 @@
 ## Overview
 
 <div style="display: flex; justify-contant: space-between; column-gap: 10px; margin-bottom: 10px">
-  <img width="70%" height="100%" src="./screen1.png" alt="screenshot">
-  <img width="20%" height="100%" src="./screen2.png" alt="screenshot">
+  <img width="70%" height="676px" src="./screen1.png" alt="screenshot">
+  <img width="20%" height="676px" src="./screen2.png" alt="screenshot">
 </div>
 
 ### Built With
