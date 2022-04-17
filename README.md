@@ -1,4 +1,4 @@
-<h1 align="center">Interior Consultant Landing (UI)</h1>
+<h1 align="center">Responsive 404 Page</h1>
 
 <div align="center">
    Solution for the <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_blank">challenge</a>.
