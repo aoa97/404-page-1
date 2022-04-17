@@ -35,7 +35,7 @@
 ## Overview
 
 <div style="display: flex; justify-content: space-between; column-gap: 10px; margin-bottom: 10px">
-  <img width="" src="./screen1.png" alt="screenshot" style="width: 60%">
+  <img width="" src="./screen1.png" alt="screenshot" style="width: 60%; height: auto">
   <img src="./screen2.png" alt="screenshot" style="width: 30%; height: auto">
 </div>
 
