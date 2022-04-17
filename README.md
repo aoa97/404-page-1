@@ -36,7 +36,7 @@
 
 <div style="display: flex; justify-content: space-between; column-gap: 10px; margin-bottom: 10px">
   <img width="" src="./screen1.png" alt="screenshot" style="width: 70%">
-  <img src="./screen2.png" alt="screenshot" style="width: 20%">
+  <img src="./screen2.png" alt="screenshot" style="max-width: 100%; height: auto">
 </div>
 
 ### Built With
@@ -49,4 +49,4 @@
 ## Contact
 
 - GitHub [@aoa97](https://github.com/aoa97)
-- LinkedIn [@aoa97](https://www.linkedin.com/in/engahmedusama/)
+- LinkedIn [@aoa97](https://www.linkedin.com/in/aoa97/)
